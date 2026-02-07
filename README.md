@@ -1,16 +1,37 @@
-# to_do_app
+# Flutter Auth Todo App
 
-A new Flutter project.
+A clean Todo App built with Flutter with Signup/Login and local storage.
 
-## Getting Started
+## Features
+- User Signup & Login
+- SharedPreferences storage
+- Task management
+- Category view
+- APK build supported
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+Flutter
+Dart
+SharedPreferences
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img src="screenshots/splash.jpeg" height="420"/>
+  <img src="screenshots/signup.jpeg" height="420"/>
+  <img src="screenshots/signin.jpeg" height="420"/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="screenshots/home.jpeg" height="420"/>
+  <img src="screenshots/createtask.jpeg" height="420"/>
+  <img src="screenshots/tasklist.jpeg" height="420"/>
+</p>
+
+## Run
+
+flutter pub get
+flutter run
+
+## Author
+Shahzaib Ali
